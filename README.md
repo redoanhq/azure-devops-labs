@@ -25,7 +25,7 @@ Become job-ready for junior Azure Cloud Engineer, Cloud Support Engineer, or Jun
 | Lab | Topic | Status |
 |---|---|---|
 | 01 | Linux scripting | Complete |
-| 02 | Azure VM with Nginx | Not started |
+| 02 | Azure VM with Nginx | Complete |
 | 03 | Azure Storage static site | Not started |
 | 04 | Docker and ACR | Not started |
 | 05 | GitHub Actions CI/CD | Not started |
