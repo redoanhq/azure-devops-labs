@@ -27,8 +27,8 @@ jobs:
       - name: Run tests
         working-directory: 06-github-actions-cicd
         env:
-          PYTHONPATH: .
-        run: python -m pytest
+          PYTHONPATH: ${{ github.workspace }}/06-github-actions-cicd
+        run: python -m pytest test_app.py
 
       - name: Log in to ACR
         run: echo "${{ secrets.ACR_PASSWORD }}" | docker login acrredlab123.azurecr.io -u "${{ secrets.ACR_USERNAME }}" --password-stdin
