@@ -20,18 +20,17 @@ Become job-ready for junior Azure Cloud Engineer, Cloud Support Engineer, or Jun
 - Kubernetes and AKS
 - Azure Monitor
 
-## Lab Progress
-
 | Lab | Topic | Status |
 |---|---|---|
 | 01 | Linux scripting | Complete |
 | 02 | Azure VM with Nginx | Complete |
 | 03 | Azure Storage static site | Complete |
-| 04 | Docker and ACR | Complete |
-| 05 | GitHub Actions CI/CD | Not started |
-| 06 | Terraform on Azure | Not started |
-| 07 | Kubernetes and AKS | Not started |
-| 08 | Final capstone | Not started |
+| 04 | Azure RBAC for Blob Storage | Complete |
+| 05 | Docker and ACR | Complete |
+| 06 | GitHub Actions CI/CD | Complete |
+| 07 | Terraform on Azure | Not started |
+| 08 | Kubernetes and AKS | Not started |
+| 09 | Final capstone | Not started |
 
 ## Notes
 
